@@ -1,8 +1,5 @@
 # CodeSync
 A real-time collaborative code editor that allows developers to code together, execute programs in multiple languages, chat with teammates, and debug code using an AI-powered assistant.
-# CodeSync
-
-A real-time collaborative code editor that enables developers to write, execute, and debug code together in a shared workspace.
 
 ## Features
 
@@ -15,13 +12,15 @@ A real-time collaborative code editor that enables developers to write, execute,
 
 ## Tech Stack
 
-| Frontend                | React, TypeScript, Vite, Tailwind CSS |
-| Backend                 | Node.js, Express.js |
+| Category | Technologies |
+|---|---|
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| Backend | Node.js, Express.js |
 | Real-time Collaboration | Socket.IO, Yjs |
-| Database                | MongoDB |
-| Code Editor             | Monaco Editor |
-| Authentication          | JWT, Google OAuth |
-| AI & Compiler           | Gemini AI, Judge0 |
+| Database | MongoDB |
+| Code Editor | Monaco Editor |
+| Authentication | JWT, Google OAuth |
+| AI & Compiler | Gemini AI, Judge0 |
 
 ## Supported Languages
 
@@ -48,3 +47,4 @@ Open `http://localhost:3000` in your browser.
 ## Author
 
 Developed by [Kruti Jaiswal](https://github.com/KrutiJaiswal).
+
