@@ -1,0 +1,6 @@
+{
+  "name": "CodeSync - Real-Time Collaborative Code Editor",
+  "description": "Real-time collaborative code editor and compiler with live multiplayer cursors, 8 language execution via Judge0, chat, and AI debugging assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
